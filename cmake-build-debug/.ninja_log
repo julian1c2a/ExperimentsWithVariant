@@ -1,0 +1,7 @@
+# ninja log v5
+9	536	7048974209309561	CMakeFiles/ExperimentsWithVariant.dir/main.cpp.obj	693cbc5363b59821
+537	689	7048974210797738	ExperimentsWithVariant.exe	ac7719b5c872df1e
+9	663	7049015389446561	CMakeFiles/ExperimentsWithVariant.dir/main.cpp.obj	693cbc5363b59821
+9	2335	7049015870215171	CMakeFiles/ExperimentsWithVariant.dir/src/wuintvariant_varlist.cpp.obj	6afa7b9fc90a12e5
+2336	2790	7049015874755692	ExperimentsWithVariant.exe	eaeba199451e7186
+9	2497	7049044773919412	CMakeFiles/ExperimentsWithVariant.dir/main.cpp.obj	693cbc5363b59821
