@@ -17,7 +17,7 @@ namespace experiments_with_variant {
     class [[maybe_unused]] wuintvariant_varlist {
     public:
         using key_type = typename std::string;
-        using value_type = typename experiments_with_variants::wrapped_uint_variant;
+        using value_type = typename experiments_with_variant::wrapped_uint_variant;
         using node_type [[maybe_unused]] = typename std::pair<key_type,value_type>;
         using map = typename std::map<key_type,value_type>;
         using uint_type = unsigned int;
