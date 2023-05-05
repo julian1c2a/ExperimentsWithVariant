@@ -1,3 +1,0 @@
-C:/Users/julia/Dropbox/GitHub/CLion/ExperimentsWithVariant/cmake-build-debug/CMakeFiles/ExperimentsWithVariant.dir
-C:/Users/julia/Dropbox/GitHub/CLion/ExperimentsWithVariant/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/julia/Dropbox/GitHub/CLion/ExperimentsWithVariant/cmake-build-debug/CMakeFiles/rebuild_cache.dir
