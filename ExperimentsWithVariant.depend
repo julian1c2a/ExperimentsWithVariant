@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1683319482 source:c:\users\julia\dropbox\github\clion\experimentswithvariant\main.cpp
+	<iostream>
+	"include/wrapped_uint.hpp"
+	"include/wuintvariant_varlist.hpp"
+
+1683321567 c:\users\julia\dropbox\github\clion\experimentswithvariant\include\wrapped_uint.hpp
+	<limits>
+	<utility>
+	<type_traits>
+	<string>
+	<iostream>
+	<concepts>
+
+1683321775 c:\users\julia\dropbox\github\clion\experimentswithvariant\include\wuintvariant_varlist.hpp
+	<variant>
+	<map>
+	<string>
+	<type_traits>
+	<utility>
+	"variant_type.hpp"
+
+1683320792 c:\users\julia\dropbox\github\clion\experimentswithvariant\include\variant_type.hpp
+	"wrapped_uint.hpp"
+	<variant>
+	<utility>
+	<type_traits>
+
+1683320666 source:c:\users\julia\dropbox\github\clion\experimentswithvariant\src\wuintvariant_varlist.cpp
+	"../include/wuintvariant_varlist.hpp"
+	<map>
+

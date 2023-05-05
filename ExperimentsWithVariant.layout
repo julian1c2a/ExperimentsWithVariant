@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="src\wuintvariant_varlist.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="13650" topLine="153" />
+		</Cursor>
+		<Folding>
+			<Collapse line="9" />
+			<Collapse line="24" />
+			<Collapse line="40" />
+			<Collapse line="46" />
+			<Collapse line="60" />
+			<Collapse line="64" />
+			<Collapse line="83" />
+		</Folding>
+	</File>
+	<File name="include\variant_type.hpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="513" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="251" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\wrapped_uint.hpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10910" topLine="335" />
+		</Cursor>
+	</File>
+	<File name="include\wuintvariant_varlist.hpp" open="1" top="1" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="784" topLine="53" />
+		</Cursor>
+	</File>
+	<EditorTabsLayout layout="08b4978064554bfa014b521c00000002=0;ExperimentsWithVariant:main.cpp,1;ExperimentsWithVariant:include\variant_type.hpp,2;ExperimentsWithVariant:include\wrapped_uint.hpp,*3;ExperimentsWithVariant:include\wuintvariant_varlist.hpp,4;ExperimentsWithVariant:src\wuintvariant_varlist.cpp@layout2|name=dummy;caption=;state=2098174;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=913;besth=442;minw=913;minh=442;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=08b4978064554bfa014b521c00000002;caption=;state=2098172;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=200;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(5,0,0)=202|" />
+	<Target name="Debug" top="include\wuintvariant_varlist.hpp">
+		<File name="main.cpp" />
+		<File name="include\variant_type.hpp" />
+		<File name="include\wrapped_uint.hpp" />
+		<File name="include\wuintvariant_varlist.hpp" />
+		<File name="src\wuintvariant_varlist.cpp" />
+	</Target>
+</CodeBlocks_layout_file>
